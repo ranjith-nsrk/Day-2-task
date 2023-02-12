@@ -1,4 +1,4 @@
-Write a blog on the differance between document & window objects :
+Write a blog on the differance between document & window objects:
 
 1.The Document Object Model (DOM) is a programming interface for HTML and XML documents, while the Window object represents a window in a browser. Understanding the difference between these two objects is crucial for web development and is an essential aspect of the client-side scripting language JavaScript.
 
